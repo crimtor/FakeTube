@@ -7,7 +7,7 @@ import Header from "./components/header";
 import Footer from "./components/footer";
 import VideoList from "./components/video_list";
 import VideoDetail from "./components/video_detail";
-const API_KEY = "AIzaSyDYwYg-tB-24QBYiAQlyxy_Ik0OLDhj_tE";
+const API_KEY = Hidden;
 
 class App extends Component {
   constructor(props) {
